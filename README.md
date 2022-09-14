@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rahul Mishra
-- 👀 I’m interested in Full-Stack web development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me @Github
